@@ -2,6 +2,11 @@
   margin-bottom: 35px;
 }
 
+.photo img {
+  width: 143px;
+  border-radius: 50%;
+}
+
 .contact,
 .address,
 .links {
