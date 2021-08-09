@@ -15,3 +15,42 @@
   width: 70%;
   overflow-y: scroll;
 }
+
+@media screen and (max-width: 998px) {
+  .app {
+    max-width: 768px;
+  }
+
+  .sidebar {
+    width: 40%;
+  }
+
+  .main {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .app {
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .sidebar,
+  .main {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .app {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .sidebar,
+  .main {
+    width: 100%;
+  }
+}
