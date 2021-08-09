@@ -270,7 +270,7 @@ const books = [
 
 const footer = {
   details: 'This portfolio is designed on ***Figma***, built on ***React*** and served on ***GitHub pages***',
-  code: 'Find [source code on GitHub](https://github.com/renjithspace/renjithspace)'
+  code: 'Find [source code on GitHub](https://github.com/renjithspace/renjithspace.github.io)'
 }
 
 export {
