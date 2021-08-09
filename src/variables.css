@@ -1,0 +1,11 @@
+:root {
+  --text-primary: #212121;
+  --text-secondary: #515151;
+  --text-tertiary: #969494;
+  --text-anchor: #0375B6;
+
+  --label-yellow: #FDF0C1;
+  --label-green: #DAFFE4;
+  --label-blue: #D1F7FF;
+  --label-red: #FFD4D4;
+}

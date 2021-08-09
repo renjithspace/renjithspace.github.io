@@ -1,0 +1,27 @@
+.label {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  font-size: 0.95em;
+  padding: 3px 9px;
+}
+
+.link {
+  color: var(--text-secondary);
+}
+
+.yellow {
+  background: var(--label-yellow);
+}
+
+.green {
+  background: var(--label-green);
+}
+
+.blue {
+  background: var(--label-blue);
+}
+
+.red {
+  background: var(--label-red);
+}

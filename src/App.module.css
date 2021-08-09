@@ -1,0 +1,17 @@
+.app {
+  --padding-top: 50px;
+  max-width: 998px;
+  margin: auto;
+  display: flex;
+  padding-top: var(--padding-top);
+  height: calc(100vh - var(--padding-top));
+}
+
+.sidebar {
+  width: 30%;
+}
+
+.main {
+  width: 70%;
+  overflow-y: scroll;
+}

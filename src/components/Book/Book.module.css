@@ -1,0 +1,10 @@
+.authors {
+  font-style: italic;
+  color: var(--text-tertiary);
+}
+
+.subtitle {
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0.45em;
+}

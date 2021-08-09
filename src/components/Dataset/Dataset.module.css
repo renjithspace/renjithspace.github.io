@@ -1,0 +1,19 @@
+.dataset {
+  display: flex;
+  margin-bottom: 0.35em;
+}
+
+.break {
+  flex-direction: column;
+}
+
+.label {
+  font-weight: bold;
+  margin-right: 0.3em;
+  color: var(--text-primary);
+}
+
+.value {
+  color: var(--text-secondary);
+  white-space: pre-wrap;
+}
